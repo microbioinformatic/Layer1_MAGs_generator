@@ -1,0 +1,6 @@
+genome_id	assembly_accession	species	strain	group	output_fasta	organism_label
+SL1344	GCF_000210855.2	Salmonella_enterica	SL1344	Salmonella_enterica	genomes/Salmonella_enterica_subsp_enterica_serovar_Typhimurium_SL1344.fna	Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+EPEC_E2348_69	GCF_900149915.1	Escherichia_coli	EPEC_O127_H6_E2348_69	Escherichia_coli	genomes/Escherichia_coli_EPEC_O127_H6_E2348_69.fna	Escherichia coli O127:H6 EPEC-E2348/69
+ETEC_H10407	GCF_000210475.1	Escherichia_coli	ETEC_H10407	Escherichia_coli	genomes/Escherichia_coli_ETEC_H10407.fna	Escherichia coli ETEC H10407
+UPEC_536	GCF_000013305.1	Escherichia_coli	UPEC_536	Escherichia_coli	genomes/Escherichia_coli_UPEC_536.fna	Escherichia coli 536 / UPEC
+KPN_MGH_78578	GCF_000016305.1	Klebsiella_pneumoniae	MGH_78578	Klebsiella_pneumoniae	genomes/Klebsiella_pneumoniae_subsp_pneumoniae_MGH_78578.fna	Klebsiella pneumoniae subsp. pneumoniae MGH 78578
